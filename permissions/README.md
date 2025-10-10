@@ -12,3 +12,5 @@ create a empty file named hello wtf is that please give me real task i'm not 5yo
 give the execute permission tu hello okay i give up
 #6-multiple_permissions
 add execute permission to the owner and the group owner, and read permission to other users, to the file
+#7-everybody
+all perm for hello
