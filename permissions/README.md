@@ -6,3 +6,5 @@ tell who is the current user
 tell in which group is the current user
 #3-new_owner
 change the owner of the file hello to my beloved betty
+#4-empty
+create a empty file named hello wtf is that please give me real task i'm not 5yo
