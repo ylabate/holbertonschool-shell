@@ -2,3 +2,5 @@
 change the current user to betty (if this user exist)
 #1-who_am_i
 tell who is the current user
+#2-groups
+tell in which group is the current user
