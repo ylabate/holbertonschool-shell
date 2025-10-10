@@ -4,3 +4,5 @@ change the current user to betty (if this user exist)
 tell who is the current user
 #2-groups
 tell in which group is the current user
+#3-new_owner
+change the owner of the file hello to my beloved betty
