@@ -8,3 +8,5 @@ tell in which group is the current user
 change the owner of the file hello to my beloved betty
 #4-empty
 create a empty file named hello wtf is that please give me real task i'm not 5yo
+#5-execute
+give the execute permission tu hello okay i give up
