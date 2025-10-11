@@ -16,3 +16,5 @@ add execute permission to the owner and the group owner, and read permission to 
 all perm for hello
 8-James_Bond
 that james bond
+9-John_Doe
+change le permission of hello to random things
