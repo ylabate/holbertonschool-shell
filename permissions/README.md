@@ -14,3 +14,5 @@ give the execute permission tu hello okay i give up
 add execute permission to the owner and the group owner, and read permission to other users, to the file
 #7-everybody
 all perm for hello
+8-James_Bond
+that james bond
