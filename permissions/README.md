@@ -28,3 +28,5 @@ create a directory named my_dir with de permission 751
 change the group owner of the file hello to school
 #14-change_owner_and_group
 change the owner user to vincent and owner group to staff for all files and directory present in the current directory
+#15-symbolic_link_permissions
+change the owner and group of _hello to vincent:staff
