@@ -14,11 +14,13 @@ give the execute permission tu hello okay i give up
 add execute permission to the owner and the group owner, and read permission to other users, to the file
 #7-everybody
 all perm for hello
-8-James_Bond
+#8-James_Bond
 that james bond
-9-John_Doe
+#9-John_Doe
 change le permission of hello to random things
-10-mirror_permissions
+#10-mirror_permissions
 change the permission of hello to the same of olleh
-11-directories_permissions
+#11-directories_permissions
 add the execution permission for all files and recursivly
+#12-directory_permissions
+create a directory named my_dir with de permission 751
