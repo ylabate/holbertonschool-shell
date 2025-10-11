@@ -20,3 +20,5 @@ that james bond
 change le permission of hello to random things
 10-mirror_permissions
 change the permission of hello to the same of olleh
+11-directories_permissions
+add the execution permission for all files and recursivly
