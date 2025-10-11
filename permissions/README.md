@@ -26,3 +26,5 @@ add the execution permission for all files and recursivly
 create a directory named my_dir with de permission 751
 #13-change_group
 change the group owner of the file hello to school
+#14-change_owner_and_group
+change the owner user to vincent and owner group to staff for all files and directory present in the current directory
