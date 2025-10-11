@@ -18,3 +18,5 @@ all perm for hello
 that james bond
 9-John_Doe
 change le permission of hello to random things
+10-mirror_permissions
+change the permission of hello to the same of olleh
