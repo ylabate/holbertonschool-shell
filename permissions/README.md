@@ -24,3 +24,5 @@ change the permission of hello to the same of olleh
 add the execution permission for all files and recursivly
 #12-directory_permissions
 create a directory named my_dir with de permission 751
+#13-change_group
+change the group owner of the file hello to school
