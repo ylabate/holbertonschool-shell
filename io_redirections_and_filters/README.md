@@ -38,3 +38,6 @@ show the number of directory recursively
 
 ### 12-newest_files
 Show the 10 newest files in the current directory
+
+## 13-unique
+sort by uniq a entry
