@@ -35,3 +35,6 @@ find and remove all the .js files recursively
 
 ### 11-directories
 show the number of directory recursively
+
+### 12-newest_files
+Show the 10 newest files in the current directory
