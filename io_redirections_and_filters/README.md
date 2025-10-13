@@ -29,3 +29,6 @@ So easy
 
 ### 9-duplicate_last_line 
 duplicate the last line of the file iacta
+
+### 10-no_more_js
+find and remove all the .js files recursively
