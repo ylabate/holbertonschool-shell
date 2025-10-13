@@ -20,3 +20,6 @@ display the first 10 line of /etc/passwd
 
 ### 6-third_line
 display only the third line of iacta
+
+### 7-file
+motherfucker
