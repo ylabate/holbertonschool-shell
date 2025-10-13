@@ -32,3 +32,6 @@ duplicate the last line of the file iacta
 
 ### 10-no_more_js
 find and remove all the .js files recursively
+
+### 11-directories
+show the number of directory recursively
