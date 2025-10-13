@@ -26,3 +26,6 @@ motherfucker
 
 ### 8-cwd_state 
 So easy 
+
+### 9-duplicate_last_line 
+duplicate the last line of the file iacta
