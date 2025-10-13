@@ -17,3 +17,6 @@ display the last 11 line of /etc/passwd
 
 ### 5-firstlines
 display the first 10 line of /etc/passwd
+
+### 6-third_line
+display only the third line of iacta
