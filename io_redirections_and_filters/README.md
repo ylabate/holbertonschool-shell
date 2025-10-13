@@ -6,3 +6,5 @@ print hello world with a newline
 print a smiley "(Ôo)'
 2-hellofile
 print the content of /etc/passwd
+3-twofiles
+print the content of /etc/passwd and /etc/hosts
