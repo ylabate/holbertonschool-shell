@@ -7,10 +7,13 @@ print hello world with a newline
 print a smiley "(Ôo)'
 
 ### 2-hellofile
-print the content of /etc/passwd
+display the content of /etc/passwd
 
 ### 3-twofiles
-print the content of /etc/passwd and /etc/hosts
+display the content of /etc/passwd and /etc/hosts
 
 ### 4-lastlines
-print the last 10 line of /etc/passwd
+display the last 11 line of /etc/passwd
+
+### 5-firstlines
+display the first 10 line of /etc/passwd
