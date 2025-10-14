@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 cut -f 1 $* | | grep -v "host" | sort --ignore-case | uniq -c | sort --ignore-case -nr | head -11 | cut -b 9-
+=======
+cut -f 1 $* | uniq -c | sort --ignore-case -nr | head -11 | cut -b 9-
+>>>>>>> parent of 54b5583 (fix: tried to fix task 26)
