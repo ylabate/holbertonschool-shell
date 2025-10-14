@@ -77,3 +77,6 @@ list all .gif files and display it without path and extension and sorted
 
 ### 25-acrostic
 take all of the first letter of a file and put in in one line
+
+### 26-the_biggest_fan
+sort a web log to show who is the best fan
