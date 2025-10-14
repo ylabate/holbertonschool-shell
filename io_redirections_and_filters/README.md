@@ -71,3 +71,6 @@ list the user and their home directory
 
 ### 23-empty_casks
 list all of the empty directory and file without the path
+
+### 24-gifs
+list all .gif files and display it without path and extension and sorted
