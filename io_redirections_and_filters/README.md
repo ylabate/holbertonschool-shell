@@ -1,4 +1,4 @@
-## io_redirections_and_filters
+# io_redirections_and_filters
 
 ### 1-hello_world
 print hello world with a newline
@@ -65,3 +65,6 @@ remove all of the C and c caractère the usage is `cat exemple | ./20-hiago`
 
 ### 21-reverse 
 Reverse the entry, usage is `echo "exemple" | ./21-reverse`
+
+### 22-users_and_homes
+list the user and their home directory
