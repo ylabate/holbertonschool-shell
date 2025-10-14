@@ -50,3 +50,6 @@ count the number of line containing the term bin in /etc/passwd
 
 ## 16-whatsnext
 show the all line containing root and 3 line after in /etc/passwd
+
+## 17-hidethisword
+display all of the line in /etc/passwd do not contain bin
