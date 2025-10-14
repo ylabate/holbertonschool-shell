@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -f 1 $* | sort --ignore-case | uniq -c | sort --ignore-case -nr | head -11 | cut -b 9-
+cut -f 1 $* | | grep -v "host" | sort --ignore-case | uniq -c | sort --ignore-case -nr | head -11 | cut -b 9-
