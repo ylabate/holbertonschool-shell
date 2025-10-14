@@ -58,4 +58,7 @@ display all of the line in /etc/passwd do not contain bin
 display all of the line starting with a letter in /etc/ssh/sshd_config
 
 ### 19-AZ
-Replace the caractère A to Z and c to e, the usage is `cat exemple | ./20-AZ`
+Replace the caractère A to Z and c to e, the usage is `cat exemple | ./19-AZ`
+
+## 20-hiago
+remove all of the C and c caractère the usage is `cat exemple | ./20-hiago`
