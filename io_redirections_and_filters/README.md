@@ -47,3 +47,6 @@ show the line root in /etc/passwd
 
 ## 15-countthatword
 count the number of line containing the term bin in /etc/passwd
+
+## 16-whatsnext
+show the all line containing root and 3 line after in /etc/passwd
