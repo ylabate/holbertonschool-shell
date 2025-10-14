@@ -74,3 +74,6 @@ list all of the empty directory and file without the path
 
 ### 24-gifs
 list all .gif files and display it without path and extension and sorted
+
+### 25-acrostic
+take all of the first letter of a file and put in in one line
