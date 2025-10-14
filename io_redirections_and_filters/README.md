@@ -60,5 +60,8 @@ display all of the line starting with a letter in /etc/ssh/sshd_config
 ### 19-AZ
 Replace the caractère A to Z and c to e, the usage is `cat exemple | ./19-AZ`
 
-## 20-hiago
+### 20-hiago
 remove all of the C and c caractère the usage is `cat exemple | ./20-hiago`
+
+### 21-reverse 
+Reverse the entry, usage is `echo "exemple" | ./21-reverse`
