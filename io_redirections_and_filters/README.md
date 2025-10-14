@@ -39,23 +39,23 @@ show the number of directory recursively
 ### 12-newest_files
 Show the 10 newest files in the current directory
 
-## 13-unique
+### 13-unique
 sort by uniq a entry
 
-## 14-findthatword
+### 14-findthatword
 show the line root in /etc/passwd
 
-## 15-countthatword
+### 15-countthatword
 count the number of line containing the term bin in /etc/passwd
 
-## 16-whatsnext
+### 16-whatsnext
 show the all line containing root and 3 line after in /etc/passwd
 
-## 17-hidethisword
+### 17-hidethisword
 display all of the line in /etc/passwd do not contain bin
 
-## 18-letteronly
+### 18-letteronly
 display all of the line starting with a letter in /etc/ssh/sshd_config
 
-## 19-AZ
+### 19-AZ
 Replace the caractère A to Z and c to e, the usage is `cat exemple | ./20-AZ`
