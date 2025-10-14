@@ -68,3 +68,6 @@ Reverse the entry, usage is `echo "exemple" | ./21-reverse`
 
 ### 22-users_and_homes
 list the user and their home directory
+
+### 23-empty_casks
+list all of the empty directory and file without the path
