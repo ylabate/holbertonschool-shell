@@ -53,3 +53,6 @@ show the all line containing root and 3 line after in /etc/passwd
 
 ## 17-hidethisword
 display all of the line in /etc/passwd do not contain bin
+
+## 18-letteronly
+display all of the line starting with a letter in /etc/ssh/sshd_config
