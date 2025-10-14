@@ -44,3 +44,6 @@ sort by uniq a entry
 
 ## 14-findthatword
 show the line root in /etc/passwd
+
+## 15-countthatword
+count the number of line containing the term bin in /etc/passwd
