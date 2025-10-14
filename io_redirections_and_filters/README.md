@@ -1,6 +1,6 @@
 ## io_redirections_and_filters
 
-### 0-hello_world
+### 1-hello_world
 print hello world with a newline
 
 ### 1-confused_smiley
@@ -56,3 +56,6 @@ display all of the line in /etc/passwd do not contain bin
 
 ## 18-letteronly
 display all of the line starting with a letter in /etc/ssh/sshd_config
+
+## 19-AZ
+Replace the caractère A to Z and c to e, the usage is `cat exemple | ./20-AZ`
