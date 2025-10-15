@@ -11,3 +11,6 @@ Add /action to the PATH
 
 ### 3-paths
 count the number of path in PATH
+
+### 4-global_variables
+list the global environment variable
