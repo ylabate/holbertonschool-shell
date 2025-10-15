@@ -8,3 +8,6 @@ Print hello with the username of the actual user
 
 ### 2-path
 Add /action to the PATH
+
+### 3-paths
+count the number of path in PATH
