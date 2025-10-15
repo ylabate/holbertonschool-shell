@@ -23,3 +23,9 @@ create a local variable with the name BEST and the value School
 
 ### 7-create_global_variable
 create a global variable with the name BEST and the value School
+
+### 8-true_knowledge
+print the result of 128 with the variable TRUEKNOWLEDG
+
+### 9-divide_and_rule
+print the result of the variable POWER minus DIVIDE
