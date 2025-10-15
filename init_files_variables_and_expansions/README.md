@@ -17,3 +17,9 @@ list the global environment variable
 
 ### 5-local_variables
 list the local variable
+
+### 6-create_local_variable
+create a local variable with the name BEST and the value School
+
+### 7-create_global_variable
+create a global variable with the name BEST and the value School
