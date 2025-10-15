@@ -29,3 +29,6 @@ print the result of 128 with the variable TRUEKNOWLEDG
 
 ### 9-divide_and_rule
 print the result of the variable POWER minus DIVIDE
+
+### 10-love_exponent_breath
+print the result of BREATH to the power LOVE
