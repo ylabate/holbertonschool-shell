@@ -14,3 +14,6 @@ count the number of path in PATH
 
 ### 4-global_variables
 list the global environment variable
+
+### 5-local_variables
+list the local variable
