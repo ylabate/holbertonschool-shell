@@ -1,2 +1,2 @@
 #!/bin/bash
-set | grep -E "^[a-z]"
+set | grep -v -E "^[A-Z]"
