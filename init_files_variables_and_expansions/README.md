@@ -38,3 +38,6 @@ convert in decimal the binary number there is in $BINARY
 
 ### 12-combinations
 print all possibility of two minus letter
+
+### 13-print_float
+print the variable NUM with two decimal places
