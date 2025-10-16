@@ -35,3 +35,6 @@ print the result of BREATH to the power LOVE
 
 ### 11-binary_to_decimal
 convert in decimal the binary number there is in $BINARY
+
+### 12-combinations
+print all possibility of two minus letter
