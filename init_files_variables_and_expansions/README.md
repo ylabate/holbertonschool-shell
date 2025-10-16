@@ -32,3 +32,6 @@ print the result of the variable POWER minus DIVIDE
 
 ### 10-love_exponent_breath
 print the result of BREATH to the power LOVE
+
+### 11-binary_to_decimal
+convert in decimal the binary number there is in $BINARY
