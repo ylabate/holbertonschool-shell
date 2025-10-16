@@ -41,3 +41,6 @@ print all possibility of two minus letter
 
 ### 13-print_float
 print the variable NUM with two decimal places
+
+### 14-decimal_to_hexadecimal
+print the variable DECIMAL in hexadecimal
