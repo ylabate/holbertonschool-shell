@@ -47,3 +47,6 @@ print the variable DECIMAL in hexadecimal
 
 ### 15-rot13
 encript text into rot13 encryption
+
+### 17-water_and_stir
+that addition the variable WATER (who's actually in base water) and the variable STIR (in base stir.) and convert the result in base "bestchol"
