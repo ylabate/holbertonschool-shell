@@ -44,3 +44,6 @@ print the variable NUM with two decimal places
 
 ### 14-decimal_to_hexadecimal
 print the variable DECIMAL in hexadecimal
+
+### 15-rot13
+encript text into rot13 encryption
